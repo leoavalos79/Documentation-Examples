@@ -2,7 +2,8 @@
     "fighters": [
         {
             "name": "Muhammad Ali",
-            "nickname": "The Greatest"
+            "nickname": "Sting like a Bee",
+            
         },
         {
             "name": "Chuck Liddell",
